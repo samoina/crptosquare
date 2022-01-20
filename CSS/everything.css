@@ -1,0 +1,46 @@
+body {
+  background-color: aquamarine;
+}
+
+#grid {
+  display: grid; 
+  grid-template-columns: auto auto auto auto;
+}
+
+.example p {
+  font-style: italic;
+  color: blue;
+}
+
+#greenGrid {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
+
+.newCell {
+  border: 2px solid red;
+  background-color:cornsilk;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#gridSentence {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
+
+.cellSent {
+  border: 1px black solid
+}
